@@ -8,11 +8,12 @@
 
 ## 👥 Integrantes
 
-| 👨‍💻 Nombre | 📧 Correo | 🐙 Usuario GitHub |
-|---|---|---|
+| 👨‍💻 Nombre                        | 📧 Correo                       | 🐙 Usuario GitHub |
+|-------------------------------------|---------------------------------|---|
 | **Jonathan David Fernandez Vargas** | jonathand.fernandez@udea.edu.co | [jonathand77](https://github.com/jonathand77) |
-| **Valeria Alvarez Fernandez** | valeria.alvarezf@udea.edu.co | [vaf88](https://github.com/vaf88) |
-| **Santiago Arenas Gomez** | santiago.arenas1@udea.edu.co | [sag0719](https://github.com/sag0719) |
+| **Valeria Alvarez Fernandez**       | valeria.alvarezf@udea.edu.co    | [vaf88](https://github.com/vaf88) |
+| **Santiago Arenas Gomez**           | santiago.arenas1@udea.edu.co    | [sag0719](https://github.com/sag0719) |
+| **Valentina **                      | valentina@udea.edu.co           | [Valentina-Q-A](https://github.com/Valentina-Q-A) |
 
 ---
 
